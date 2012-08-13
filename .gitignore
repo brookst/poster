@@ -6,4 +6,7 @@ img
 *.log
 *.lot
 *.toc
+*.nav
+*.out
+*.snm
 *.pdf
